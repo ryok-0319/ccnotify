@@ -3,7 +3,7 @@ package github
 import (
 	"errors"
 
-	"github.com/google/go-github/github"
+	"github.com/google/go-github/v32/github"
 	"golang.org/x/oauth2"
 )
 

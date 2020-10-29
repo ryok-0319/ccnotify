@@ -7,7 +7,7 @@ import (
 
 	"github.com/ryok-0319/ccnotify/github"
 
-	"github.com/urfave/cli"
+	"github.com/urfave/cli/v2"
 )
 
 const (
